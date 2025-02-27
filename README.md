@@ -37,7 +37,7 @@ O backend foi desenvolvido em **PHP** e o banco de dados é **MySQL** (XAMPP).
 - **PHP** (Back-end)  
 - **MySQL** (Banco de Dados)  
 - **XAMPP** (Ambiente Local)  
-- **Dio** (Consumo de API)  
+- **http** (Consumo de API)  
 - **Provider** (Gerenciamento de estado)  
 
 ---
