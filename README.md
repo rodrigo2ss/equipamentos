@@ -16,9 +16,6 @@ O backend foi desenvolvido em **PHP** e o banco de dados é **MySQL** (XAMPP).
 ### Formulário de Cadastro  
 <img src="screenshots/formulario_cadastro.jpg" width="250">
 
-### Programas Instalados  
-<img src="screenshots/programas_instalados.jpg" width="250">
-
 ### Cadastro Concluído  
 <img src="screenshots/cadastro_concluido.jpg" width="250">
 
@@ -26,7 +23,7 @@ O backend foi desenvolvido em **PHP** e o banco de dados é **MySQL** (XAMPP).
 <img src="screenshots/equipamentos_setor.jpg" width="250">
 
 ### Detalhes do Equipamento  
-<img src="screenshots/detalhes_equipamento.jpg" width="250">
+<img src="screenshots/detalhes_equipamentos.jpg" width="250">
 
 ---
 
